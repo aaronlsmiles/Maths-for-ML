@@ -25,11 +25,11 @@ This repository will cover the following topics:
 
 # Linear Algebra
 
-- [Week 1](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/week1.ipynb): 
+- [Week 1]: 
 
   > Solving simultaneous equations
 
-- [Week 2](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/Week2.ipynb):
+- [Week 2]:
 
   > Modulus e inner products
   >
@@ -41,7 +41,7 @@ This repository will cover the following topics:
   >
   > Linear dependence
 
-- [Week 3](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/week3.ipynb): 
+- [Week 3]: 
 
   > Matrix multiplication
   >
@@ -55,7 +55,7 @@ This repository will cover the following topics:
   >
   > Inverse matrix
 
-- [Week 4](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/Week4.ipynb): 
+- [Week 4]: 
 
   > Einstein summation
   >
@@ -71,7 +71,7 @@ This repository will cover the following topics:
   >
   > Gram-schmidt process
 
-- [Week 5](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/week5.ipynb):
+- [Week 5]:
 
   > Eigenvalues
   >
@@ -85,7 +85,7 @@ This repository will cover the following topics:
 
 # Multivariate Calculus
 
-- [Week1](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week1.ipynb): 
+- [Week1]: 
 
   > Differentiation and definition of a derivative;
   >
@@ -103,7 +103,7 @@ This repository will cover the following topics:
   >
   > 
 
-- [Week2](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week2.ipynb):
+- [Week2]:
 
   > Dependent and independent variables;
   >
@@ -117,7 +117,7 @@ This repository will cover the following topics:
   >
   > Hessian matrix.
 
-- [Week3](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week3.ipynb):
+- [Week3]:
 
   > Multivariate chain rule;
   >
@@ -125,7 +125,7 @@ This repository will cover the following topics:
   >
   > Applied NN with the chain rule
   
-- [Week4](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week4.ipynb):
+- [Week4]:
 
   > Why approximate function;
   >
@@ -139,7 +139,7 @@ This repository will cover the following topics:
   >
   > Multivariate taylor series.
   
-- [Week5](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week5.ipynb):
+- [Week5]:
 
   > One dimensional newton-raphson;
   >
@@ -147,11 +147,9 @@ This repository will cover the following topics:
   >
   > Constrained optimisation.
   
-- Week 6 not provided.
-  
 # Principal Component Analysis
   
-- [Week 1](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/pca_week1.ipynb):
+- [Week 1]:
   > Mean of a dataset;
   >
   > One dimensional variance;
@@ -162,8 +160,8 @@ This repository will cover the following topics:
   >
   > Numpy tutorial (from the course lab);
   >
-  > A little gift for you, if you come this far :\)
-- [Week 2](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/pca_week2.ipynb):
+  > 
+- [Week 2]:
   > Dot product, angles and distance between vectors;
   >
   > Inner products;
@@ -171,11 +169,13 @@ This repository will cover the following topics:
   > Inner products and length of vectors;
   >
   > Inner products, orthogonality and angle between vectors.
-- [Week 3](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/pca_week3.ipynb):
+  > 
+- [Week 3]:
   > Projections onto 1-D subspace;
   >
   > Projections in higher dimensions (N-D subspace).
-- [Week 4](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/pca_week4.ipynb):
+  > 
+- [Week 4]:
   > PCA objective and key ideas;
   >
   > Coordinates of projected data;
@@ -185,4 +185,4 @@ This repository will cover the following topics:
   > Finding the basis vectors that spans the principal subspace;
   >
   > Summary of key equations.
-  > My personal note on how to create a PCA function (to help in the final assignment).
+
