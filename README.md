@@ -81,8 +81,6 @@ This repository will cover the following topics:
   >
   > Changing to the eigenbasis
 
-
-
 # Multivariate Calculus
 
 - [Week1]: 
@@ -100,8 +98,6 @@ This repository will cover the following topics:
   > Chain rule;
   >
   > All around application.
-  >
-  > 
 
 - [Week2]:
 
@@ -150,6 +146,7 @@ This repository will cover the following topics:
 # Principal Component Analysis
   
 - [Week 1]:
+
   > Mean of a dataset;
   >
   > One dimensional variance;
@@ -159,9 +156,9 @@ This repository will cover the following topics:
   > Linear transformation properties for the mean, variance and covariance;
   >
   > Numpy tutorial (from the course lab);
-  >
-  > 
+  
 - [Week 2]:
+
   > Dot product, angles and distance between vectors;
   >
   > Inner products;
@@ -169,13 +166,15 @@ This repository will cover the following topics:
   > Inner products and length of vectors;
   >
   > Inner products, orthogonality and angle between vectors.
-  > 
+  
 - [Week 3]:
+
   > Projections onto 1-D subspace;
   >
   > Projections in higher dimensions (N-D subspace).
-  > 
+  
 - [Week 4]:
+
   > PCA objective and key ideas;
   >
   > Coordinates of projected data;
