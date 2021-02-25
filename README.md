@@ -1,17 +1,14 @@
 # Mathematics for Machine Learning
-**In no way graded assignments  and exams needed to certificate will be shared due to the Coursera honor code**
 
-**Please note that sometimes github doesn't load the .ipynb file or use a incorrect diagram for a matrix, feel free to download it and use in your own reader**
+### Notes from the course by Imperial College London on Coursera.
 
-The aim of my repository is to give students learning the basis math for machine learning (in special those doing the Imperial College London Mathematics for Machine Learning course) some helpful resources and somewhere to guide then in the practice exercises available at the course.
-
-This repository covers the following topics:
+This repository will cover the following topics:
 
 - Linear algebra;
 - Multivariate Calculus;
 - Principal Component Analysis (PCA).
 
-**Basic course description (From Imperial College London course)**
+**Course description (from Coursera page)**
 
 *For a lot of higher level courses in Machine Learning and Data Science, you find you need to freshen up on the basics in mathematics - stuff you may have studied before in school or university, but which was taught in another context, or not very intuitively, such that you struggle to relate it to how it’s used in Computer Science. This specialization aims to bridge that gap, getting you up to speed in the underlying mathematics, building an intuitive understanding, and relating it to Machine Learning and Data Science.*
 
@@ -24,9 +21,6 @@ This repository covers the following topics:
 *At the end of this specialization you will have gained the prerequisite mathematical knowledge to continue your journey and take more advanced courses in machine learning.*
 
 [Course link](https://www.coursera.org/specializations/mathematics-machine-learning)
-
-# Available notes and exercises resolutions
-
 
 
 # Linear Algebra
